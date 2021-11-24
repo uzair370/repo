@@ -1,0 +1,7 @@
+def pal(num):
+    if x1== num:
+       print("palindrome")
+    else:
+       print("not a palindrome")
+print(pal("madam")
+print("uzair")
