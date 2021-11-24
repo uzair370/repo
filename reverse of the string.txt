@@ -1,0 +1,11 @@
+def reverse(s)
+   str =" " 
+   for i in s:
+      str = i + str
+   return str 
+s = "India"
+print("the original string is :",end=" ")
+print(s)
+
+print("the reverse of the string (using loop) is : ",end=" ")
+print(reverse(s))
